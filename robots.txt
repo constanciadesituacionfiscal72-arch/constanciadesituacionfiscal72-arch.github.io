@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://constanciadesituacionfiscal72-arch.github.io/sitemap.xml
